@@ -80,7 +80,7 @@ body{
     }
     @media(max-width:600px){
        .container{
-        width: 300px;
+        width: 250px;
     
        } 
     }
